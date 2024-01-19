@@ -1,0 +1,23 @@
+{
+    "product":[
+        {"id":101,"name":"Laptop","price":55000,"company":"HP"},
+        {"id":102,"name":"Mobile","price":30000,"company":"Oppo"},
+        {"id":103,"name":"USB","price":1000,"company":"Sony"},
+        {"id":104,"name":"Adapter","price":3000,"company":"Toshiba"},
+        {"id":105,"name":"cable","price":200,"company":"China"}
+    ],
+
+    "users":[
+        {"id":1,"userid":"admin","userpass":"admin@123"},
+        {"id":2,"userid":"king","userpass":"king@123"},
+        {"id":3,"userid":"Queen","userpass":"queen@123"}
+    ],
+
+    "user":[
+
+        {"id":1,"userid":"admin","userpass":"admin@123"},
+        {"id":2,"userid":"king","userpass":"king@123"},
+        {"id":3,"userid":"Queen","userpass":"queen@123"}
+
+    ]
+}

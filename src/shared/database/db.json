@@ -1,0 +1,40 @@
+{
+  "product": [
+    {
+      "id": 101,
+      "name": "Laptop",
+      "price": 55000,
+      "company": "HP"
+    },
+    {
+      "id": 102,
+      "name": "Mobile",
+      "price": 30000,
+      "company": "Oppo"
+    },
+    {
+      "id": 103,
+      "name": "USB",
+      "price": "1500",
+      "company": "Sony"
+    },
+    {
+      "id": 104,
+      "name": "Adapter",
+      "price": 3000,
+      "company": "Toshiba"
+    },
+    {
+      "name": "telivision",
+      "price": "70000",
+      "company": "samsung",
+      "id": 105
+    },
+    {
+      "name": "AC",
+      "price": "50000",
+      "company": "Croma",
+      "id": 106
+    }
+  ]
+}

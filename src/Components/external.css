@@ -1,0 +1,25 @@
+.circle{
+    border: 3px solid brown;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: yellow;
+
+}
+.myform{
+    border: 3px solid #1565C0;
+    width: 466px;
+    padding: 20px;
+    background-color: palegoldenrod;
+    text-align: left;
+    border-radius: 23px;
+    margin: auto;
+    box-shadow: 10px 10px cadetblue;
+}
+.loginform{
+    border: 2px solid blue;
+    padding: 15px;
+    border-radius: 5px;
+    width: 370px;
+    margin: auto;
+}
